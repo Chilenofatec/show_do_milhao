@@ -1,0 +1,12 @@
+'Teste.perguntas' coloca as perguntas já pre feitas em um banco de dados chamado 'dados'
+
+Arquivo dbm 'dados' são as perguntas pré feitas
+
+
+Show do milhão Inicia o jogo
+
+Durante o jogo deveram aparecer os arquivos:
+
+'dados_usuario' são as perguntas gravadas pelo usuário
+
+'misc' são arquivos de configuração, como jogadores, e nível de dificuldade
